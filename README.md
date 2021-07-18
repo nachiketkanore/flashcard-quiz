@@ -2,13 +2,16 @@
 Flashcard quizzes web application
 
 ## Demo
-... add video demo ...
+
+https://user-images.githubusercontent.com/44920607/126079193-fe652119-5cdc-47ff-b2c0-6fce6fabb3e3.mp4
+
+
 
 ## Installation
 ```bash
 # Clone the repository
-git clone ...
-cd ...
+git clone git@github.com:nachiketkanore/flashcard-quiz.git
+cd flashcard-quiz
 
 # Install node packages
 npm install
