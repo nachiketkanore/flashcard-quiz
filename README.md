@@ -1,7 +1,8 @@
 # Flashcard Quiz App
 Flashcard quizzes web application. <br>
-Hosted Live at: [Link](http://weary-mist.surge.sh/)
-
+Hosted Live at:
+ - Surge - [Link](http://weary-mist.surge.sh/)
+ - Netlify - [Link](https://60f48084bf06fedd6c356739--goofy-babbage-4233b8.netlify.app/)
 ## Demo
 
 https://user-images.githubusercontent.com/44920607/126079193-fe652119-5cdc-47ff-b2c0-6fce6fabb3e3.mp4
